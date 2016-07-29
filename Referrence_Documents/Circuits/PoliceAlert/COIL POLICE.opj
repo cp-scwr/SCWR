@@ -11,6 +11,14 @@
   (Folder "Outputs")
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
     (CON2
       (FullPartName "CON2.Normal")
       (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
@@ -27,20 +35,13 @@
       (FullPartName "SPEAKER.Normal")
       (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
       (DeviceIndex "0"))
-    (R
-      (FullPartName "R.Normal")
-      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
-      (DeviceIndex "0"))
     (NE555
       (FullPartName "NE555.Normal")
       (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\MISCLINEAR.OLB")
       (DeviceIndex "0")))
   (GlobalState
     (FileView
-      (Path "Design Resources")
-      (Path "Design Resources" ".\coil police.dsn")
-      (Path "Design Resources" ".\coil police.dsn" "SCHEMATIC1")
-      (Select "Design Resources" ".\coil police.dsn" "SCHEMATIC1" "PAGE1"))
+      (Path "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -51,11 +52,11 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -30 50 1240 50 317")
-        (Scroll "-144 68")
-        (Zoom "100")
+        (Scroll "-183 0")
+        (Zoom "92")
         (Occurrence "/"))
       (Path
-         "C:\USERS\NGHIANC\DESKTOP\MO_SO_MACH_DIEN_HAY_DON_GIAN\MACH COI CANH SAT\COIL POLICE.DSN")
+         "F:\WORKING\CAPSTONE_PROJECT\SCWR\REFERRENCE_DOCUMENTS\CIRCUITS\POLICEALERT\COIL POLICE.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
   (MPSSessionName "NghiaNC"))
