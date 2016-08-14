@@ -1,0 +1,14 @@
+{
+	"show_video": true,
+	"use_dropbox": true,
+	"dropbox_key": "dgybdo08woirbct",
+	"dropbox_secret": "evdi7ytoo54u6wy",
+	"dropbox_base_path": "scwr_sample01",
+	"min_upload_seconds": 3.0,
+	"min_motion_frames": 3,
+	"camera_warmup_time": 2.5,
+	"delta_thresh": 5,
+	"resolution": [640, 480],
+	"fps": 22,
+	"min_area": 2000
+}
